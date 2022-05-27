@@ -29,3 +29,14 @@ main section {
   max-width: 1200px;
 }
 
+.search-bar{
+width: 100%;
+text-align: center;
+height: 1rem;
+padding: 1rem 0;
+margin-bottom: 1rem;
+}
+
+.movie-details{
+  margin: 1rem 0;
+}
